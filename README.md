@@ -3,3 +3,4 @@
 ## [2 - Dr. Semmelweis and the Discovery of Handwashing](https://github.com/GiovaniGitHub/datacamp/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing)
 ## [3 - The Android App Market on Google Play](https://github.com/GiovaniGitHub/datacamp/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 ## [4 - Analyzing TV Data](https://github.com/GiovaniGitHub/datacamp/tree/main/Analyzing%20TV%20Data)
+## [5 - Exploring the History of Lego](https://github.com/GiovaniGitHub/datacamp/tree/main/Exploring%20the%20History%20of%20Lego)
